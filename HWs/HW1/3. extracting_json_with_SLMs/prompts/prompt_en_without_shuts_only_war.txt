@@ -1,0 +1,70 @@
+**ROLE**: You are a JSON FILLER specialist. FILL THE GIVEN JSON STRUCTURE BASED ON THE INFORMATION I GIVE YOU.
+
+**RULES**:  
+1. OUTPUT MUST BE:
+   - OUTPUT ONLY ONE JSON, NOTHING MORE  
+   - KEYWORDS MUST BE "English", VALUES MUST BE "Farsi"
+   - ALL FIELDS MUST PRESENT, NOTHING MORE, NOTHING LESS
+   - ALL NUMBERS / DIGITS MUST BE ENGLISH. 
+   - OUTPUT MUST STRICTLY BETWEEN START_JSON{JSON}END_JSON  
+   - Unknown numbers: null  
+   - Unknown string: ""
+   - ONLY ONE JSON AS OUTPUT, NOTHING MORE
+   - SOME INFORMATION SHOULD BE INFERED FROM THE CONTENT AND ARE NOT EXPLICITLY MENTIONED. YOU SHOULD INFERE THEM.
+   - THE CONTENT I GIVE YOU IS ENOUGH COMPREHENSIVE TO FILL ALL ENTRIES OF THE JSON. SO TRY TO FILL ALL OF THEM.
+
+**STRUCTURE: THE OUTPUT MUST FOLLOW THE FOLLOWING STRUCTURE (EXACTLY THE SAME, DO NOT CHANGE)**:  
+"""
+{
+  "event_type": "جنگ",
+  "title": "",
+  "description": "",
+  "period": {
+    "start_year": "",
+    "end_year": ""
+  },
+  "location": {
+    "province": "",
+    "city": "",
+  },
+  "causes": [],
+  "belligerents": [
+    {
+      "name": "",
+      "leader": ""
+    }
+  ],
+  "result": "",
+  "casualties": {
+    "side_a": null,
+    "side_b": null,
+    "civilian": null,
+  },
+  "impact": {
+    "political": [],
+    "economic": [],
+    "social": [],
+    "cultural": []
+  },
+  "key_figures": [
+    {
+      "name": "",
+      "role": ""
+    }
+  ],
+  "references": [
+    {
+      "title": "",
+      "author": "",
+      "year": ""
+    }
+  ],
+}
+"""
+
+**NOW, FILL THE ABOVE EMPTY JSON STRUCTURE WITH THE INFORMATION IN THE FOLLOWING PARAGRAPHS. THE OUTPUT MUST FOLLOW THE SAME JSON STRUCTURE AS ABOVE, BUT FILLED BASED ON THE FOLLOWING INFORMATION. SOME INFORMATION SHOULD BE INFERED FROM THE CONTENT AND ARE NOT EXPLICITLY MENTIONED. YOU SHOULD INFERE THEM.**:  
+#### START OF CONTENT  
+QUERY_CONTENT_PLACEHOLDER  
+#### END OF CONTENT
+
+YOUR TASK IS TO OUTPUT THE GIVEN JSON FROMAT, BUT FILLED BASED ON THE INFORMATION I GAVE YOU.

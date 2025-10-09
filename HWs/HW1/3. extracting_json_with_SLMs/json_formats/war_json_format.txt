@@ -1,0 +1,86 @@
+{
+  "event_type": "جنگ",
+  "title": "",
+  "description": "",
+  "period": {
+    "start_year": "",
+    "end_year": "",
+    "era": ""
+  },
+  "location": {
+    "province": "",
+    "city": "",
+    "modern_location": {
+      "country": "",
+      "province": ""
+    },
+    "coordinates": {
+      "latitude": null,
+      "longitude": null,
+      "accuracy": ""
+    }
+  },
+  "causes": [],
+  "belligerents": [
+    {
+      "name": "",
+      "leader": "",
+      "type": "",
+      "strength": null
+    }
+  ],
+  "result": "",
+  "casualties": {
+    "side_a": null,
+    "side_b": null,
+    "civilian": null,
+    "notes": ""
+  },
+  "impact": {
+    "political": [],
+    "economic": [],
+    "social": [],
+    "cultural": []
+  },
+  "historical_significance": "",
+  "timeline": [
+    {
+      "date": "",
+      "event": "",
+      "description": ""
+    }
+  ],
+  "key_figures": [
+    {
+      "name": "",
+      "role": "",
+      "allegiance": ""
+    }
+  ],
+  "aftermath": "",
+  "controversies": [],
+  "references": [
+    {
+      "title": "",
+      "author": "",
+      "year": "",
+      "type": "",
+      "reliability": ""
+    }
+  ],
+  "source": {
+    "name": "",
+    "author": "",
+    "publication_date": "",
+    "url": "",
+    "archive": {
+      "name": "",
+      "location": ""
+    }
+  },
+  "metadata": {
+    "last_updated": "",
+    "contributors": [],
+    "verification_status": ""
+  }
+}

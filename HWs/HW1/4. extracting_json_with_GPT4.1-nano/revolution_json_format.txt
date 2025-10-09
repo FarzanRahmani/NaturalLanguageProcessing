@@ -1,0 +1,58 @@
+{
+  "event_type": "انقلاب",
+  "title": "",
+  "description": "",
+  "period": {
+    "start_year": "",
+    "end_year": "",
+    "era": ""
+  },
+  "location": {
+    "primary_region": "",
+    "country": ""
+  },
+  "causes": [],
+  "leaders": [
+    {
+      "name": "",
+      "role": "",
+      "affiliation": ""
+    }
+  ],
+  "groups_involved": [
+    {
+      "name": "",
+      "type": "",
+      "motive": ""
+    }
+  ],
+  "key_events": [
+    {
+      "date": "",
+      "event": "",
+      "description": ""
+    }
+  ],
+  "result": "",
+  "impact": {
+    "political": [],
+    "social": [],
+    "legal": [],
+    "cultural": []
+  },
+  "aftermath": "",
+  "references": [
+    {
+      "title": "",
+      "author": "",
+      "year": "",
+      "type": "",
+      "reliability": ""
+    }
+  ],
+  "metadata": {
+    "last_updated": "",
+    "contributors": [],
+    "verification_status": ""
+  }
+}

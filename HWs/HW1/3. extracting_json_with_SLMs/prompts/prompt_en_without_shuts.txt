@@ -1,0 +1,48 @@
+# I intend to store information related to significant historical events of Iran (including wars, treaties, revolutions, and achievements) in JSON format using a precise and standardized structure. Please convert the historical text I provide into the JSON structure below. What you must do is to convert the text I give you at the end of the message into one of the JSON structures and output it to me. Let’s proceed step by step:
+
+### Detailed and Step-by-Step Instructions:
+1. **Language of Content**: Make sure to fill all JSON fields in Persian.
+
+2. **Standard JSON Structures** (these structures are fixed and must not be changed):
+
+**JSON structure for wars:**
+
+```
+WAR_JSON_STRUCTURE_PLACEHOLDER
+``` 
+
+**JSON structure for historical treaties:**
+
+```
+CONTRACTS_JSON_STRUCTURE_PLACEHOLDER
+```
+
+**JSON structure for revolutions:**
+
+```
+REVOLUTIONS_JSON_STRUCTURE_PLACEHOLDER
+```
+
+**JSON structure for achievements:**
+
+```
+ACHIEVEMENTS_JSON_STRUCTURE_PLACEHOLDER
+```
+
+3. **Pay very close attention to the following**:
+   - The content I provide will be about one of the subjects [war, treaty, revolution, achievement]. You must identify which one it is and choose the corresponding structure accordingly. In other words, only one of the above JSON structures must be selected and completed based on the given text. Do not include anything except that one completed JSON structure in the output.
+   - If a field lacks data, use `null` (for numbers) or an empty string `""` (for text).
+   - For unknown numeric values, use `null` (not zero).
+   - The JSON structure must be fully valid and parsable with `json.loads()` in Python.
+   - For fields that require descriptions, make sure to provide complete and detailed explanations. Avoid summarizing or using ellipses `...`.
+   - The explanatory notes next to each field should **not** appear in the final JSON output.
+   - **Very Important**: The output should begin with the label `START_JSON` and end with the label `END_JSON`. Make sure to output only one JSON structure. Do not include anything else in the output.
+   - Try your best to extract the required information from the text I provide. Some information might be implied rather than explicitly stated, so you must infer it from context. But if the provided text lacks sufficient data for a field, fill it in as described (`null` for numbers or `""` for text).
+
+
+
+4. Now please convert the following text into the appropriate JSON structure:
+
+```
+QUERY_CONTENT_PLACEHOLDER
+```

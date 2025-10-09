@@ -1,0 +1,65 @@
+{
+    "event_type": "جنگ",
+    "title": "",
+    "description": "",
+    "period": {
+        "start_year": 633,
+        "end_year": ""
+    },
+    "location": {
+        "province": "",
+        "city": ""
+    },
+    "causes": [
+        "تاثیر بسیار مهمی بر وضعیت اجتماعی، اقتصادی و فرهنگی ایران",
+        "تحت تاثیر فرهنگ و آداب و رسوم ملت غالب قرار دادن ملت مغلوب",
+        "تاریخ‌نگاری یک تحول بزرگ در ورود اسلام به ایران"
+    ],
+    "belligerents": [
+        {
+            "name": "عرب",
+            "leader": "عمربن خطاب"
+        },
+        {
+            "name": "",
+            "leader": "یزدگرد سوم"
+        }
+    ],
+    "result": "",
+    "casualties": {
+        "side_a": null,
+        "side_b": null,
+        "civilian": null
+    },
+    "impact": {
+        "political": [
+            "حمله اعراب به ایران تاثیر بسیار مهمی بر وضعیت اجتماعی، اقتصادی و فرهنگی ایران بر جای گذاشت"
+        ],
+        "economic": [
+            "تغییرات عمدۀ اقتصادی و برقراری شرایط جدید در شیوه اخذ مالیات توسط اعراب"
+        ],
+        "social": [
+            "attack by Arabs on Iran led to a belief in armed resistance turning into a hidden popular uprising under the government of \"Javidan Ibn Salih\""
+        ],
+        "cultural": [
+            "ملت مغلوب تحت تاثیر فرهنگ و آداب و رسوم ملت غالب قرار می گیرد"
+        ]
+    },
+    "key_figures": [
+        {
+            "name": "",
+            "role": ""
+        },
+        {
+            "name": "یزدگرد سوم",
+            "role": "آخرین شاهنشاه سلسله ساسانیان"
+        }
+    ],
+    "references": [
+        {
+            "title": "",
+            "author": "",
+            "year": 633
+        }
+    ]
+}
