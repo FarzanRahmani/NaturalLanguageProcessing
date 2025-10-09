@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Create account",
+    "description": "",
+    "period": {
+      "start_year": "نامشخص",
+      "end_year": "نامشخص"
+    },
+    "location": {
+      "province": "نامشخص",
+      "city": "نامشخص",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    "causes": [],
+    "belligerents": [],
+    "result": "اطلاعات موجود نیست",
+    "casualties": {
+      "تلفات": "نامشخص"
+    },
+    "impact": [],
+    "historical_significance": "اطلاعات موجود نیست",
+    "references": [
+      {
+        "title": "تاریخ ایران باستان",
+        "author": "پیرنیا، حسن",
+        "year": "۱۳۸۷"
+      },
+      {
+        "title": "تاریخ تحولات سیاسی ایران",
+        "author": "موسوی، سید احمد",
+        "year": "۱۳۹۴"
+      }
+    ],
+    "source": {
+      "title": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=History+of+Iran",
+      "publication_date": "N/A"
+    }
+  },
+  {
+    "title": "Log in",
+    "description": "As part of recent enhancements, login processing now uses our domain auth.wikimedia.org. If you are using blocking software, you will need to allow access to this domain to log in. (technical details)",
+    "period": {
+      "start_year": "نامشخص",
+      "end_year": "نامشخص"
+    },
+    "location": {
+      "province": "نامشخص",
+      "city": "نامشخص",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    "causes": [],
+    "belligerents": [
+      {
+        "name": "ایران",
+        "leader": "نامشخص"
+      },
+      {
+        "name": "دشمن",
+        "leader": "نامشخص"
+      }
+    ],
+    "result": "اطلاعات موجود نیست",
+    "casualties": {
+      "تلفات": "نامشخص"
+    },
+    "impact": [],
+    "historical_significance": "اطلاعات موجود نیست",
+    "references": [
+      {
+        "title": "تاریخ ایران باستان",
+        "author": "پیرنیا، حسن",
+        "year": "۱۳۸۷"
+      },
+      {
+        "title": "تاریخ تحولات سیاسی ایران",
+        "author": "موسوی، سید احمد",
+        "year": "۱۳۹۴"
+      }
+    ],
+    "source": {
+      "title": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=History+of+Iran",
+      "publication_date": "N/A"
+    }
+  },
+  {
+    "title": "Create account",
+    "description": "",
+    "period": {
+      "start_year": "نامشخص",
+      "end_year": "نامشخص"
+    },
+    "location": {
+      "province": "نامشخص",
+      "city": "نامشخص",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    "causes": [],
+    "belligerents": [],
+    "result": "اطلاعات موجود نیست",
+    "casualties": {
+      "تلفات": "نامشخص"
+    },
+    "impact": [],
+    "historical_significance": "اطلاعات موجود نیست",
+    "references": [
+      {
+        "title": "تاریخ ایران باستان",
+        "author": "پیرنیا، حسن",
+        "year": "۱۳۸۷"
+      },
+      {
+        "title": "تاریخ تحولات سیاسی ایران",
+        "author": "موسوی، سید احمد",
+        "year": "۱۳۹۴"
+      }
+    ],
+    "source": {
+      "title": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=History+of+Iran",
+      "publication_date": "N/A"
+    }
+  }
+]
