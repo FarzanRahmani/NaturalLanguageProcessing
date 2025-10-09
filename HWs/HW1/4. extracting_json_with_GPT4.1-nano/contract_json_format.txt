@@ -1,0 +1,44 @@
+{
+  "event_type": "قرارداد",
+  "title": "",
+  "description": "",
+  "date_signed": "",
+  "period": {
+    "era": "",
+    "context": ""
+  },
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "parties": [
+    {
+      "name": "",
+      "representative": "",
+      "type": ""
+    }
+  ],
+  "terms": [],
+  "result": "",
+  "impact": {
+    "political": [],
+    "economic": [],
+    "territorial": []
+  },
+  "controversies": [],
+  "references": [
+    {
+      "title": "",
+      "author": "",
+      "year": "",
+      "type": "",
+      "reliability": ""
+    }
+  ],
+  "metadata": {
+    "last_updated": "",
+    "contributors": [],
+    "verification_status": ""
+  }
+}
+

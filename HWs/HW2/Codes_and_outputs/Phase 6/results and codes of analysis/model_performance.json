@@ -1,0 +1,56 @@
+{
+    "glot500_finetuned_1": {
+        "total_score": 1204,
+        "count": 134,
+        "average_score": 8.985074626865671,
+        "average_rank": 1.0149253731343284
+    },
+    "tfidf_1": {
+        "total_score": 1045,
+        "count": 134,
+        "average_score": 7.798507462686567,
+        "average_rank": 2.201492537313433
+    },
+    "glot500_finetuned_3": {
+        "total_score": 427,
+        "count": 134,
+        "average_score": 3.1865671641791047,
+        "average_rank": 6.813432835820896
+    },
+    "tfidf_2": {
+        "total_score": 801,
+        "count": 134,
+        "average_score": 5.977611940298507,
+        "average_rank": 4.022388059701493
+    },
+    "glot500_finetuned_2": {
+        "total_score": 595,
+        "count": 134,
+        "average_score": 4.440298507462686,
+        "average_rank": 5.559701492537314
+    },
+    "tfidf_3": {
+        "total_score": 682,
+        "count": 134,
+        "average_score": 5.08955223880597,
+        "average_rank": 4.91044776119403
+    },
+    "glot500_zero_shot_1": {
+        "total_score": 549,
+        "count": 134,
+        "average_score": 4.097014925373134,
+        "average_rank": 5.902985074626866
+    },
+    "glot500_zero_shot_2": {
+        "total_score": 407,
+        "count": 134,
+        "average_score": 3.037313432835821,
+        "average_rank": 6.962686567164179
+    },
+    "glot500_zero_shot_3": {
+        "total_score": 320,
+        "count": 134,
+        "average_score": 2.388059701492537,
+        "average_rank": 7.611940298507463
+    }
+}

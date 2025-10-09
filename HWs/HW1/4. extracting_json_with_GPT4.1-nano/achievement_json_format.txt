@@ -1,0 +1,43 @@
+{
+  "event_type": "دستاورد",
+  "title": "",
+  "description": "",
+  "period": {
+    "start_year": "",
+    "end_year": "",
+    "era": "",
+    "monarch": ""
+  },
+  "location": {
+    "city": "",
+    "country": ""
+  },
+  "type": "",
+  "contributors": [
+    {
+      "name": "",
+      "role": "",
+      "affiliation": ""
+    }
+  ],
+  "features": [],
+  "influence": {
+    "regional": [],
+    "global": []
+  },
+  "legacy": "",
+  "references": [
+    {
+      "title": "",
+      "author": "",
+      "year": "",
+      "type": "",
+      "reliability": ""
+    }
+  ],
+  "metadata": {
+    "last_updated": "",
+    "contributors": [],
+    "verification_status": ""
+  }
+}
